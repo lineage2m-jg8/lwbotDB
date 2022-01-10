@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lwpayment",
+  "private_key_id": "88fc8be6e1b9024cac16380770d09c10ae85a52c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDe+L9fB6dXcKCk\nzampSXcCP5GnAsNNV0c3cj+ZTfUMpgnrs7qKIoZwNktnVUsLJrfTn8I39zBHQxne\nFxfByVOX5ZZlm3OsSjrh/b2rBsBrO5ZrMUv4uOktiT5YN17eAA3oh0n9dI/kbUcj\nlrvUP6ZNuzo/5YZQEq1tuG+i1mBpDmW0UP8GSzHVqeDIUfMd+C/MHMa3yXO/4iPy\noRoczVjXmTATAA7XysmAXnpGxdmchpQfv1Cj4wCEPFBejxdoLiJW0dFHegdCniLl\nHt0/5OhGc+DTjlLUcxZ9CNfJQWYV7yd1yuWF/7vh9UintuUxEijZkgPHRf4vgY2i\n4M4i7dnJAgMBAAECggEAOhiuJGCmJY5fDRHZRxaxP5C4rr91i81V7QiDsboyQ11v\n8E4gKKXeSZacBwyeRQWNmEJkJJjvp2HAd7GkqwV+FnHnwgnDFf0xYnju1oUn1cjs\n5HkvxlrHxumfqPSkb0usVA4MJVIdu/MNOiSoRCFhf5dtEgEIAg0byx7nV5JsBHMT\nY478ldgV7aghkI9MUdw4ctby3S0n5Jey84/a0mqe0x225N2UxuHovyndC/rvf8DQ\nDKjIp5f9rsXCDPxShWnhrpPFrXN8uVU39vCnICV8NUkyukqQVCLsxty8YUQY4WMe\n4RJlC8YqJ7PHMnMmyIb+wMpe6x6SlDpwe/sVGHjw0QKBgQDwRFPGutbfJPvxQyu0\nH6KFFPuPCrpy/I56lf48NIY9P1HH1nsFKBTFcce014o0cVJDLNP4oiaxb/RkiINR\nuzrFpnDLRZrJD4lAq+t1nJKendsWi+1YXRVe7+tMhlEhBeN4wx+eXgYCu4aanJST\nJ31ZjohmLyQakW3o38lh7XoJUwKBgQDtkn6ggVrXIa/OaGmEHkn/pJvihUzQKdEe\nqzYM8pIMVk6StufW08VffatG4EV81JtnHV0U9TFYgzqJRNRuCZgLqpmwS7vzG7mn\ndAT1kYCEYoi3/1lWmGtQ3E81TGf9+rKB1u4cETMklVe6mmukUTcm2TP08bN2y4RA\nVzeMia0A8wKBgFA+gbxdqmXcdEifpnkCF8VavKmJa7v7nZpTfhWddTf/bdDQUUXn\nnQhUd95uHjplnpPQ5PqlLUcVnQn2jeU+IuLgM8uv84IzLiPrRziAkndnQUTGdv6M\nGBcdCfkE4xOkY9RxVp4NyPQgrVP196kuBy9h6yw1kllNOOgN1bRfG+MBAoGBAM4t\n/mF0Ag+E99vt9+0mkFgiVvt/bouWTxwLwOv5tVCpsqVXwdtKjRfzq6rmRsgwh/I0\npKzkov/LXAj3yFj7UI6Hb7x17dbt7/DpGsi4j03Vagwtuy4RN8nEeaWq+vGMGlHe\n42VOdBFC3xFepR7FMVUw2guxnGvz8oIYb2gzsAaLAoGBAOOMEoGUUREWRhLTDlkD\nPgDO67kodPemjfRF3zXDMs5nMG7Hy7uh4RLga3yMrnGI10O5m2451iapdJJ1IVm1\nzqchWaS2Hfai/yx7g5qRALh30U+PRPAEYK6UDF2MB9Bygq1khuTxYB+QZEcq7if0\nTxSRw+Rm5Vki68qRs4PS5Q9h\n-----END PRIVATE KEY-----\n",
+  "client_email": "lwbot-js@lwpayment.iam.gserviceaccount.com",
+  "client_id": "107066401639639887851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lwbot-js%40lwpayment.iam.gserviceaccount.com"
+}
